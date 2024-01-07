@@ -9,49 +9,44 @@ Hello! I'm Ronald, a software developer with experience in front-end and back-en
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-# Bienvenido a mi Perfil 👋
 
-¡Hola! Soy Ronald Rodriguez, un desarrollador Full Stack apasionado por la creación de soluciones tecnológicas innovadoras. Este es mi espacio digital donde comparto mi viaje en el mundo de la programación.
 
-## 🚀 Habilidades y Tecnologías
+<h1 align="left">Hey 👋 What's up?</h1>
 
-### Frontend
+###
 
-- **Lenguajes:** HTML, CSS, JavaScript
-- **Frameworks:** React, Vue.js
-- **Herramientas:** Webpack, Babel
+<p align="left">My name is ... and I'm a ..., from ....</p>
 
-### Backend
+###
 
-- **Lenguajes:** Node.js, PHP
-- **Frameworks:** Express, Laravel
-- **Bases de Datos:** MongoDB, MySQL
-- **APIs:** RESTful, GraphQL
+<h2 align="left">About me</h2>
 
-### Base de Datos
+###
 
-- MongoDB
-- MySQL
-- Firebase
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-### Herramientas y Otros
+###
 
-- Control de Versiones: Git, GitHub
-- Gestión de Proyectos: Jira, Trello
-- Despliegue: Docker, Heroku
-- Testing: Jest, Mocha
+<h2 align="left">I code with</h2>
 
-## 🌱 Aprendiendo
+###
 
-Actualmente, estoy explorando nuevas tecnologías y ampliando mis conocimientos en inteligencia artificial y desarrollo de aplicaciones móviles.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
 
-## 🤝 ¡Conéctate conmigo!
-
-¡Estoy abierto a oportunidades de colaboración y nuevas conexiones! Siempre estoy dispuesto a aprender y compartir conocimientos. ¡No dudes en ponerte en contacto!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ronaldrodriguez23/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/TuUsuarioTwitter)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://tuportfolio.com)
-
-Gracias por visitar mi perfil. ¡Espero que encuentres algo interesante aquí! 😊
-
+###
